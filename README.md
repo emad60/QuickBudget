@@ -42,7 +42,7 @@ A professional, enterprise-grade desktop application for comprehensive budget pl
 
 ### **Modular Design**
 ```
-QuickBudget/
+MasterBudget/
 ├── src/
 │   ├── core/                    # Business Logic Layer
 │   │   ├── budget_calculator.py # Financial calculations
@@ -56,7 +56,7 @@ QuickBudget/
 │   └── sample_data.csv          # Sample budget data
 ├── outputs/                     # Generated reports
 ├── main.py                      # Application entry point
-├── requirements.txt             # Dependencies
+├── requirements.txt             # Python dependencies
 └── README.md                   # Documentation
 ```
 
@@ -80,7 +80,7 @@ QuickBudget/
 ### **Quick Start**
 ```bash
 # Clone or download the project
-cd QuickBudget
+cd MasterBudget
 
 # Install dependencies
 pip install -r requirements.txt
